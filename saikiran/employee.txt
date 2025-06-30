@@ -1,1 +1,2 @@
 Sai Kiran,22,Programmer,25000
+Nitish Chauhan,22,Manager,20000
